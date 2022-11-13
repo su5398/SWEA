@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8408ed6f-a785-4eef-9e08-d729d080d64f" name="Changes" comment="2058풀이">
-      <change afterPath="$PROJECT_DIR$/D1/src/D1_2070.java" afterDir="false" />
+    <list default="true" id="8408ed6f-a785-4eef-9e08-d729d080d64f" name="Changes" comment="2070풀이">
+      <change afterPath="$PROJECT_DIR$/D1/src/D1_1545.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <workItem from="1668095692990" duration="2068000" />
       <workItem from="1668180943596" duration="3955000" />
       <workItem from="1668313305786" duration="14000" />
-      <workItem from="1668347055783" duration="446000" />
+      <workItem from="1668347055783" duration="817000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1668093902983</created>
@@ -98,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668184927545</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2070풀이">
+      <created>1668347582172</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668347582172</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +129,7 @@
     <MESSAGE value="2063풀이" />
     <MESSAGE value="2056풀이" />
     <MESSAGE value="2058풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="2058풀이" />
+    <MESSAGE value="2070풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="2070풀이" />
   </component>
 </project>
