@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8408ed6f-a785-4eef-9e08-d729d080d64f" name="Changes" comment="2070풀이">
-      <change afterPath="$PROJECT_DIR$/D1/src/D1_1545.java" afterDir="false" />
+    <list default="true" id="8408ed6f-a785-4eef-9e08-d729d080d64f" name="Changes" comment="1545풀이">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D1/src/D1_1936.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D1/src/D1_2068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D2&amp;D3/D2&amp;D3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D2&amp;D3/src/D2_1954.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D2&amp;D3/src/D2_2001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +48,28 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.D1_2068">
+    <configuration name="D1_1936" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D1_1936" />
+      <module name="D1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D1_2068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D1_2068" />
+      <module name="D1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.D1_2068" />
+        <item itemvalue="Application.D1_1936" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +82,8 @@
       <workItem from="1668095692990" duration="2068000" />
       <workItem from="1668180943596" duration="3955000" />
       <workItem from="1668313305786" duration="14000" />
-      <workItem from="1668347055783" duration="817000" />
+      <workItem from="1668347055783" duration="5125000" />
+      <workItem from="1668520813599" duration="1946000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1668093902983</created>
@@ -105,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668347582172</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1545풀이">
+      <created>1668348116789</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668348116789</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +166,7 @@
     <MESSAGE value="2056풀이" />
     <MESSAGE value="2058풀이" />
     <MESSAGE value="2070풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="2070풀이" />
+    <MESSAGE value="1545풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="1545풀이" />
   </component>
 </project>
