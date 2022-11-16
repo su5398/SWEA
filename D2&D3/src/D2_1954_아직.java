@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class D2_1954 {
+public class D2_1954_아직 {
 
     static int T, N;
 
