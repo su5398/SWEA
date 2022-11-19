@@ -1,12 +1,8 @@
 import java.util.Scanner;
-import java.util.Vector;
 
-public class D2_1954_아직 {
+public class D2_1954 {
 
     static int T, N;
-    static int x[] = {1, -1, 0, 0};
-    static int y[] = {0, 0, 1, -1};
-    static boolean Visited[][];
     static int map[][];
 
     public static void main(String args[]){
@@ -47,13 +43,17 @@ public class D2_1954_아직 {
                     map[j][startY] = num;
                     num++;
                 }
-                end
-
+                startY++;
             }
 
+            System.out.println("#"+(i+1));
 
-
+            for(int x = 0; x < N; x++){
+                for(int y = 0; y < N; y++){
+                    System.out.print(map[x][y]+" ");
+                }
+                System.out.println();
+            }
         }
-
     }
 }
