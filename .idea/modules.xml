@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/D1/D1.iml" filepath="$PROJECT_DIR$/D1/D1.iml" />
       <module fileurl="file://$PROJECT_DIR$/D2&amp;D3/D2&amp;D3.iml" filepath="$PROJECT_DIR$/D2&amp;D3/D2&amp;D3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hyundai_Softier/Hyundai_Softier.iml" filepath="$PROJECT_DIR$/Hyundai_Softier/Hyundai_Softier.iml" />
       <module fileurl="file://$PROJECT_DIR$/SWEA.iml" filepath="$PROJECT_DIR$/SWEA.iml" />
     </modules>
   </component>
