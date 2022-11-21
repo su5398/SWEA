@@ -10,7 +10,7 @@ public class D1_2058 {
         String num = sc.next();
         String numsplit[] = num.split("");
 
-        for(int i = 0; i < 4; i++){
+        for(int i = 0; i < numsplit.length; i++){
             sum += Integer.parseInt(numsplit[i]);
         }
         System.out.println(sum);
