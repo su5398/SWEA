@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Baekjoon/Baekjoon.iml" filepath="$PROJECT_DIR$/Baekjoon/Baekjoon.iml" />
       <module fileurl="file://$PROJECT_DIR$/D1/D1.iml" filepath="$PROJECT_DIR$/D1/D1.iml" />
       <module fileurl="file://$PROJECT_DIR$/D2&amp;D3/D2&amp;D3.iml" filepath="$PROJECT_DIR$/D2&amp;D3/D2&amp;D3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hyundai_Softier/Hyundai_Softier.iml" filepath="$PROJECT_DIR$/Hyundai_Softier/Hyundai_Softier.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SWEA.iml" filepath="$PROJECT_DIR$/SWEA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWEA&amp;Algorithms.iml" filepath="$PROJECT_DIR$/SWEA&amp;Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Saffy/Saffy.iml" filepath="$PROJECT_DIR$/Saffy/Saffy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Softeer/Softeer.iml" filepath="$PROJECT_DIR$/Softeer/Softeer.iml" />
     </modules>
