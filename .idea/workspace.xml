@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8408ed6f-a785-4eef-9e08-d729d080d64f" name="Changes" comment="백준 3425 답">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/src/N3003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8408ed6f-a785-4eef-9e08-d729d080d64f" name="Changes" comment="백준 3003" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +110,7 @@
       <workItem from="1669212333458" duration="1211000" />
       <workItem from="1674569000644" duration="38000" />
       <workItem from="1674569093887" duration="3032000" />
-      <workItem from="1674649268617" duration="5948000" />
+      <workItem from="1674649268617" duration="6194000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1668093902983</created>
@@ -276,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674655913865</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="백준 3003">
+      <created>1674658013329</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1674658013329</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +316,7 @@
     <MESSAGE value="풀이" />
     <MESSAGE value="백준 3425" />
     <MESSAGE value="백준 3425 답" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 3425 답" />
+    <MESSAGE value="백준 3003" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 3003" />
   </component>
 </project>
