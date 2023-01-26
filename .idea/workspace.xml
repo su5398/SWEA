@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8408ed6f-a785-4eef-9e08-d729d080d64f" name="Changes" comment="백준 3003" />
+    <list default="true" id="8408ed6f-a785-4eef-9e08-d729d080d64f" name="Changes" comment="백준 3003">
+      <change afterPath="$PROJECT_DIR$/Baekjoon/src/N2884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,16 +43,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.N3425">
+  <component name="RunManager" selected="Application.N2884">
     <configuration name="D1_2058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="D1_2058" />
-      <module name="D1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D1_2068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D1_2068" />
       <module name="D1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,6 +54,13 @@
     <configuration name="Hyundai_P6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hyundai_P6" />
       <module name="Softeer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N2884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="N2884" />
+      <module name="Baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N2884" />
         <item itemvalue="Application.N3425" />
         <item itemvalue="Application.Hyundai_P6" />
         <item itemvalue="Application.D1_2058" />
         <item itemvalue="Application.P1" />
-        <item itemvalue="Application.D1_2068" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +114,8 @@
       <workItem from="1674569000644" duration="38000" />
       <workItem from="1674569093887" duration="3032000" />
       <workItem from="1674649268617" duration="6194000" />
+      <workItem from="1674658060108" duration="144000" />
+      <workItem from="1674742142172" duration="951000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1668093902983</created>
@@ -280,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674658013329</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="백준 3003">
+      <created>1674658114551</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1674658114552</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
